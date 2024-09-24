@@ -51,7 +51,7 @@ Criacartao(
     
     Criacartao(
     'fisica',
-    ' quanto tempo a luz do sol demora para chegar até a terra?'
+    ' quanto tempo a luz do sol demora para chegar até a terra?',
     '8 minutos')
     
     Criacartao (
@@ -69,10 +69,10 @@ Criacartao(
     'qual a fórmula do termo geral da P.G?',
     'an = a1 . qn-1' )
     
-    Criacartao
+    Criacartao(
     'matematica',
     'qual a fórmula geral da P.A?',
-    'an = a1 + (n - 1) r' )
+    'an = a1 + (n - 1) r')
     
     Criacartao (
     'fisica',
