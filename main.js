@@ -9,7 +9,7 @@ function criacartao ( categoria, pergunta, resposta){
         <p>${pergunta}</p>
     </div>
     <div class="cartao-respostas">
-            <p>${respostas}</p>
+            <p>${resposta}</p>
         </div>
 
 </div>
