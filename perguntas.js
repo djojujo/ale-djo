@@ -5,42 +5,42 @@ Criacartao(
     
     
     Criacartao(
-    'quimica',
-    'qual o modelo atômico pudim de passas?',
+    'Quimica',
+    'Qual o modelo atômico pudim de passas?',
     'Thomson')
     
     Criacartao (
-    'biologia',
+    'Biologia',
     'quais os componentes que formam o DNA?',
     'Adenina, timina, citosina e guanina')
     
     Criacartao(
-    'biologia',
+    'Biologia',
     'Quais os componentes que formam o RNA?',
     'Adenina, guanina, citosina e uracila')
     
     Criacartao (
-    'biologia',
+    'Biologia',
     'qual a doença transmitida pelo rato?',
     'leptospirose')
     
     Criacartao ( 
-    'historia',
+    'Historia',
     'Qual o nome do presidente do Brasil que ficou conhecido como Jango?',
     'João Goulart')
     
     Criacartao (
-    'filosofia',
+    'Filosofia',
     'de quem é a famosa frase, "penso, logo existo',
     'Descartes')
     
     Criacartao (
-    'geografia',
+    'Geografia',
     'Qual o menor pais do mundo',
     'Vaticano')
     
     Criacartao (
-    'geografia',
+    'Geografia',
     'Qual o maior país do mundo?',
     'Russia')
     
