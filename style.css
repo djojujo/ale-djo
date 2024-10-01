@@ -4,7 +4,7 @@
 --cartao-verso: #40E0D0;
 --branco: #ffffff;
 --preto: #000000;
---destaque: #00FF7F;
+--destaque: #00BFFF;
 
 }
 body{ 
@@ -57,7 +57,7 @@ footer{
 .cartao-conteudo p {
     margin-top: 4rem;
     padding: 2rem;
-    font: size 1px 4vw;
+    font-size:  1.4vw;
 }
 
 .cartao-resposta p{
