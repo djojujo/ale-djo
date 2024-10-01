@@ -50,52 +50,52 @@ Criacartao(
     '3,14')
     
     Criacartao(
-    'fisica',
-    ' quanto tempo a luz do sol demora para chegar até a terra?',
+    'Fisica',
+    'Quanto tempo a luz do sol demora para chegar até a terra?',
     '8 minutos')
     
     Criacartao (
-    'historia',
+    'Historia',
     'Em que período da história foi descoberto o fogo?',
-    'paleolítico')
+    'Paleolítico')
     
     Criacartao(
-    'geografia',
-    'qual a montanha mais alta do Brasil?',
+    'Geografia',
+    'Qual a montanha mais alta do Brasil?',
     'Pico da neblina')
     
     Criacartao (
-    'matematica',
-    'qual a fórmula do termo geral da P.G?',
+    'Matematica',
+    'Qual a fórmula do termo geral da P.G?',
     'an = a1 . qn-1' )
     
     Criacartao(
-    'matematica',
-    'qual a fórmula geral da P.A?',
+    'Matematica',
+    'Qual a fórmula geral da P.A?',
     'an = a1 + (n - 1) r')
     
     Criacartao (
-    'fisica',
+    'Fisica',
     'Qual a fórmula do Movimento retilíneo uniformemente fórmula do sorvete?',
     's = s0 + v . ∆t')
     
     
     Criacartao (
-    'fisica',
-    'qual a fórmula da Energia potencial gravitacional?',
+    'Fisica',
+    'Qual a fórmula da Energia potencial gravitacional?',
     'Ep = m . g . h')
     
     Criacartao (
-    'fisica',
-    'quanto tempo a terra demora para dar uma volta completa em torno do sol?',
+    'Fisica',
+    'Quanto tempo a terra demora para dar uma volta completa em torno do sol?',
     '24horas')
     
     Criacartao(
-    'quimica',
-    ' qual a fórmula para calcular o número de mols?',
+    'Quimica',
+    'Qual a fórmula para calcular o número de mols?',
     'n = m/MM')
     
     Criacartao (
-    'quimica',
-    'qual a fórmula para calcular densidade?',
+    'Quimica',
+    'Qual a fórmula para calcular densidade?',
     ' d = m/V ' )
