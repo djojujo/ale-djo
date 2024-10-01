@@ -1,6 +1,6 @@
 Criacartao(
-    'quimica',
-    'qual o modelo atômico da bola de bilhar?',
+    'Quimica',
+    'Qual o modelo atômico da bola de bilhar?',
     'Dalton')
     
     
@@ -11,7 +11,7 @@ Criacartao(
     
     Criacartao (
     'Biologia',
-    'quais os componentes que formam o DNA?',
+    'Quais os componentes que formam o DNA?',
     'Adenina, timina, citosina e guanina')
     
     Criacartao(
@@ -21,7 +21,7 @@ Criacartao(
     
     Criacartao (
     'Biologia',
-    'qual a doença transmitida pelo rato?',
+    'Qual a doença transmitida pelo rato?',
     'leptospirose')
     
     Criacartao ( 
@@ -31,7 +31,7 @@ Criacartao(
     
     Criacartao (
     'Filosofia',
-    'de quem é a famosa frase, "penso, logo existo',
+    'De quem é a famosa frase, "penso, logo existo',
     'Descartes')
     
     Criacartao (
@@ -45,8 +45,8 @@ Criacartao(
     'Russia')
     
     Criacartao(
-    'matematica',
-    'qual o valor de PI?',
+    'Matemática',
+    'Qual o valor de PI?',
     '3,14')
     
     Criacartao(
