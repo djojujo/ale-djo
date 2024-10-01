@@ -22,8 +22,8 @@ Criacartao(
     Criacartao (
     'Biologia',
     'Qual a doença transmitida pelo rato?',
-    'leptospirose')
-    
+    'Leptospirose')
+
     Criacartao ( 
     'Historia',
     'Qual o nome do presidente do Brasil que ficou conhecido como Jango?',
