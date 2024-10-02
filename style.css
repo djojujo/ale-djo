@@ -1,7 +1,7 @@
 :root {
     --fundo: #6a209b;
     --cartao-frente: #b66efa;
-    --cartao-verso: #a8d6f3;
+    --cartao-verso: #e6a5f3;
     --branco: #ffffff;
     --preto: #ffffff;
     --destaque: #6512a8;
@@ -89,5 +89,4 @@ footer {
 .cartao-resposta {
     transform: rotateY(180deg);
     background-color: var(--cartao-verso);
-    border: 4px solid var(--destaque);
 }
