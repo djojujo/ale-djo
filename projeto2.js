@@ -23,7 +23,7 @@ function showAnswer(card){
         ansewer.style.display === 'block';
     }
 else{
-    answer.style.display === 'none';
+    answer.style.display = 'none';
 
 }
 }
