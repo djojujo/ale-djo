@@ -28,3 +28,8 @@ footer {
     text-align: center;
 
 }
+#container{
+    display: grid;
+    gap: 2rem;
+    padding: 2rem;
+}
