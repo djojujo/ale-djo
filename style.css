@@ -11,6 +11,17 @@
 body {
     background-color: var(--fundo);
 }
+header{
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+header a{
+    color: var(--branco);
+    text-decoration: none;
+}
 
 footer {
     background-color: var(--preto);
