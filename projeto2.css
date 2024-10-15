@@ -38,5 +38,5 @@ footer {
     padding: 2rem;
     border: 2px solid var(--preto);
     background-color: var(--pergunta);
-    border-radius: 2px;
+    border-radius: 5px;
 }
