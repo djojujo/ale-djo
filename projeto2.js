@@ -18,7 +18,7 @@ function Criacartao ( categoria, pergunta, resposta){
 }
 
 function showAnswer(card){
-    const answer = document.querySelector('.cartao-resposta');
+    const answer = card.querySelector('.cartao-resposta');
     if (answer.style.display === 'none'){
         answer.style.display = 'block';
     }
