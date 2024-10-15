@@ -1,5 +1,5 @@
-;:root{
-    --preto:#00FF00;
+:root{
+    --preto:#000000;
     --branco:#ffffff;
     --pergunta: #0000CD;
     --resposta:#FF1493;
@@ -15,7 +15,7 @@ header{
 }
 
 header a{
-    color: var(--preto);
+    color: var(--);
     text-decoration: none;
 }
 
