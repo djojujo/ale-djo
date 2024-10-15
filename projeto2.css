@@ -3,6 +3,7 @@
     --branco:#f7f7f7;
     --pergunta: #b66efa;
     --resposta:#FF1493;
+    --fundo:#FFD700;
 
 }
 
@@ -51,4 +52,7 @@ footer {
     text-align: center;
     background-color: var(--resposta);
     display: none;
+}
+body{
+    background-color: var(--fundo);
 }
