@@ -19,7 +19,7 @@ header{
 }
 
 header a{
-    color: var(--preto);
+    color: var(--branco);
     text-decoration: none;
 }
 
