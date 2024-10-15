@@ -41,3 +41,9 @@ footer {
     border-radius: 5px;
     box-shadow: 5px 5px 15px 3px var(--preto);
 }
+
+.cartao-conteudo{
+    transform: scale(1.02);
+
+
+}
